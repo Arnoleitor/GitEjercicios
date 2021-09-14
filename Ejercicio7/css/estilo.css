@@ -1,0 +1,28 @@
+div{
+    margin: 100px;
+}
+h1 {
+    margin-left:450px;
+}
+h1{
+    color:green ;
+}
+span{
+    color: brown;
+}
+h2{
+    color: rgb(6, 122, 103);text-decoration:underline gray;
+}
+em{
+    color:springgreen
+}
+h3{
+    color: rgb(219, 123, 59);
+}
+
+div{
+    border:gray 2px solid;  margin:100px 
+}
+body{
+    border:gray 5px solid;
+}
